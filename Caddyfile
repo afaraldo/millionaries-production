@@ -1,4 +1,4 @@
-asesorfinanciero.afaraldo.co {
+finanzaspersonales.afaraldo.co, personalfinance.afaraldo.co {
   encode gzip zstd
   reverse_proxy web:3000
 }
